@@ -30,6 +30,7 @@ The following patches have been applied to this fork
 
 - Alpha (for transperency/alpha)
 - Blinking Cursor (self explanatory)
+- Newterm (opening new terminal in same dir with keyboard shortcut)
 - Delkey (for proper delete key behavior)
 - Dracula Colour Scheme
 - Scrollback (shift + pgup/pgdown for scroll)
